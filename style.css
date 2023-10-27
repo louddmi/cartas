@@ -1,0 +1,26 @@
+body{
+    background-image: url(./fondo.png);
+}
+h2{
+    color: aliceblue;
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2
+p{
+    color: azure;
+}
+img{
+    margin: 1%;
+    border: black;
+   
+}
+#luna{
+    margin-left: 1400px;
+  
+   margin-top: -2000px;
+   margin-block-end: 760px;
+  #sol{
+    margin: left 1400px;
+  }
